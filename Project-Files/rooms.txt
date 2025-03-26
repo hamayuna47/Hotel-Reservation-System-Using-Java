@@ -1,0 +1,5 @@
+101	Single	1	Reserved	150.00	City1
+102	Double	2	Available	129.99	City2
+201	Suite	3	Available	199.99	City1
+202	Single	1	Available	89.99	City3
+301	Double	2	Available	149.99	City2
